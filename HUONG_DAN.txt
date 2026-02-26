@@ -1,0 +1,26 @@
+# Bypass Tool - Rebuilt Version
+
+Day la phien ban rebuild cua cong cu AntiCapCut, cho phep ban loai bo trang thai "Pro" khoi cac project trong CapCut de co the Export video mien phi.
+
+## Thanh phan goi:
+- main.py: Ma nguon Python cua tool (khong bi ma hoa).
+- requirements.txt: Danh sach cac thu vien can thiet (PyQt5).
+- run_tool.bat: File chay nhanh cho Windows (tu dong cai dat thu vien va mo tool).
+
+## Huong dan su dung:
+1. Dam bao may tinh da cai dat Python (tai tai python.org).
+2. Giai nen thu muc nay.
+3. Chay file `run_tool.bat`.
+4. Trong giao dien tool:
+   - Chon thu muc Project cua CapCut (mac dinh se tu nhan dien).
+   - Chon project ban muon bypass trong danh sach.
+   - Nhan nut "BYPASS PROJECT (REMOVE PRO)".
+5. Quay lai CapCut va thuc hien Export video.
+
+## Ghi chu:
+- Tool se tu dong tao file backup (.bak) cho tung project truoc khi sua. Neu co loi, ban co xoa file .json moi va doi ten file .bak thanh .json de khoi phuc.
+- Day la phien ban ma nguon mo (Open Source), an toan 100%.
+
+---
+Author: Rebuilt by zenjichen
+Support: https://www.facebook.com/NguyenManhHaOfficial
