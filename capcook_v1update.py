@@ -1,6 +1,6 @@
 """
 CapCut Bypass Pro Tool
-Tác giả gốc: caucadukich
+Tác giả gốc: zenjichen
 GUI hiện đại được rebuild từ binary analysis
 """
 
@@ -1158,3 +1158,4 @@ if __name__ == "__main__":
     win = MainWindow()
     win.show()
     sys.exit(app.exec_())
+
